@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+} 
+div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.introducao{
+    background-color: rgb(202, 202, 202);
+}
+.introducao img{
+width: 270px;
+}
+.tudo{
+    margin: 0px 22%;
+}
+.ingles{
+    background-color: blue;
+    color: white;
+}
+.frances{
+    background-color: blue;
+    color: white;
+}
+p{
+    font-size: 20px;
+}
+.comentario{
+    margin: 0px 26%;
+}
+h2,h3,h4{
+    font-size: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+img{
+    width: 80px;
+}
